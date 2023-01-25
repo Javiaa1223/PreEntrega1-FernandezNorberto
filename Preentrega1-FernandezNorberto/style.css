@@ -1,0 +1,37 @@
+
+*{
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.formulario_index{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 70vw;
+ }
+ .formulario{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+input{
+    
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+select{
+    
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+.ul_formulario{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.logo{
+    width: 50px;
+}
